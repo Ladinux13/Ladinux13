@@ -1,4 +1,4 @@
-## Hi there 👋 I'm Ladino 
+## Hi there -  I'm Ladino 
 
 <p align="center">
   Data Analyst | Geospatial Scientist | Python | Machine Learning <br>
@@ -15,13 +15,13 @@ I'm passionate about using **data science**, **interactive visualizations**, and
 
 ### Tech Stack & Tools
 
-- 🐍 Python, Pandas, Scikit-learn, Streamlit, OCR, NLP
-- 🤖 Machine Learning for risk, text, and financial analysis
-- 🌍 QGIS, PostGIS, GeoPandas
-- 📊 Tableau, Plotly, Matplotlib
-- ⚙️ Workflow automation and migration from Excel
+-  Python, Pandas, Scikit-learn, Streamlit, OCR, NLP
+-  Machine Learning for risk, text, and financial analysis
+-  QGIS, PostGIS, GeoPandas
+-  Tableau, Plotly, Matplotlib
+-  Workflow automation and migration from Excel
 
 ### Fun Facts
 
-- 🎭 Passionate about theatre – it enhances my communication and creativity.
-- 🎮 Strategic video game enthusiast – great for analytical thinking and decision-making under pressure.
+-  Passionate about theatre – it enhances my communication and creativity.
+-  Strategic video game enthusiast – great for analytical thinking and decision-making under pressure.
