@@ -4,6 +4,7 @@
   Data Analyst | Geospatial Scientist | Python | Machine Learning <br>
 </p>
 
+### About Me
 
 I'm a specialist in **Geospatial Information Sciences**, with a background and experience in advanced solutions using **Python**, **Machine Learning**, and open-source geospatial tools.
 
@@ -12,18 +13,15 @@ Currently, I work at Mexico’s **Tax Administration Service (SAT)** as a Data A
 I'm passionate about using **data science**, **interactive visualizations**, and **automation** to turn raw data into actionable insights that improve decision-making in public institutions.
 
 
+### Tech Stack & Tools
 
-<!--
-**Ladinux13/Ladinux13** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🐍 Python, Pandas, Scikit-learn, Streamlit, OCR, NLP
+- 🤖 Machine Learning for risk, text, and financial analysis
+- 🌍 QGIS, PostGIS, GeoPandas
+- 📊 Tableau, Plotly, Matplotlib
+- ⚙️ Workflow automation and migration from Excel
 
-Here are some ideas to get you started:
+### Fun Facts
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🎭 Passionate about theatre – it enhances my communication and creativity.
+- 🎮 Strategic video game enthusiast – great for analytical thinking and decision-making under pressure.
