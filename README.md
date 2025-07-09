@@ -25,3 +25,6 @@ I'm passionate about using **data science**, **interactive visualizations**, and
 
 -  Passionate about theatre – it enhances my communication and creativity.
 -  Strategic video game enthusiast – great for analytical thinking and decision-making under pressure.
+
+
+[View my sample portfolio](https://github.com/Ladinux13/Ladino_Portafolio)
